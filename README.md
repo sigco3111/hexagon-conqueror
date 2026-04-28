@@ -1,6 +1,5 @@
 # 🎯 헥사곤 정복자 (Hexagon Conqueror)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sigco3111/hexagon-conqueror)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-ff6b6b?style=for-the-badge)](https://hexagon-conqueror.vercel.app)
 
 > 실제 한국 지도 위에서 펼치는 영토 확장 리스크 게임
