@@ -1,5 +1,8 @@
 # 🎯 헥사곤 정복자 (Hexagon Conqueror)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sigco3111/hexagon-conqueror)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-ff6b6b?style=for-the-badge)](https://hexagon-conqueror.vercel.app)
+
 > 실제 한국 지도 위에서 펼치는 영토 확장 리스크 게임
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -191,6 +194,12 @@ npm test
 | v0.8 | 자원 시스템 (AP 보너스, 방어 강화, 공격력 보너스) | ✅ 완료 |
 | v0.9 | AI 자동 플레이 토글 | ✅ 완료 |
 | v1.0 | 자동 저장 + 이어하기 + 도움말 모달 | ✅ 완료 |
+
+---
+
+## 🎮 데모 플레이
+
+**👉 [헥사곤 정복자 플레이하기](https://hexagon-conqueror.vercel.app)**
 
 ---
 
