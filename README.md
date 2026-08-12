@@ -1,6 +1,6 @@
 # 🎯 헥사곤 정복자 (Hexagon Conqueror)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-ff6b6b?style=for-the-badge)](https://hexagon-conqueror.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-ff6b6b?style=for-the-badge)](https://sigco3111.github.io/hexagon-conqueror)
 
 > 실제 한국 지도 위에서 펼치는 영토 확장 리스크 게임
 
@@ -198,7 +198,7 @@ npm test
 
 ## 🎮 데모 플레이
 
-**👉 [헥사곤 정복자 플레이하기](https://hexagon-conqueror.vercel.app)**
+**👉 [헥사곤 정복자 플레이하기](https://sigco3111.github.io/hexagon-conqueror)**
 
 ---
 
